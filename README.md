@@ -103,6 +103,11 @@ A web-based attendance management system designed to simplify attendance trackin
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ravganesan1963bcs28-tech/ravganesan1963bcs28-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 🌱 Currently Learning
 
