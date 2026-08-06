@@ -93,15 +93,6 @@ A web-based attendance management system designed to simplify attendance trackin
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ravganesan1963bcs28-tech&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
