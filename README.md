@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muniyasamy G</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Python Developer | Data Analytics Enthusiast | Cybersecurity Learner
+Computer Science Engineering Student | Python Developer | Machine Learning Enthusiast | Cybersecurity Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;Machine+Learning+Student;Cybersecurity+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;Machine+Learning+Student;Cybersecurity+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Third-Year Computer Science and Engineering Student
 
@@ -25,16 +25,16 @@ Computer Science Engineering Student | Python Developer | Data Analytics Enthusi
 - Operating Systems
 - Data Analytics
 
-🚀 Goals
+🎯 Career Goals
 
 - Become a Software Engineer
-- Build impactful real-world applications
-- Learn new technologies every day
+- Build impactful software
 - Contribute to Open Source
+- Learn something new every day
 
 ---
 
-## 🚀 Languages & Technologies
+# 🚀 Languages & Tools
 
 <p align="left">
 
@@ -60,27 +60,27 @@ Computer Science Engineering Student | Python Developer | Data Analytics Enthusi
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🎬 MCU Watch Order
+## 🎬 MCU Watch Order
 
-A responsive web application that helps Marvel fans watch MCU movies and series in both release order and chronological timeline.
-
----
-
-### 📄 Secure Placement Prediction & Resume Analytics System
-
-A Python and MongoDB project that analyzes resumes and predicts placement opportunities using Machine Learning techniques.
+A responsive web application that helps Marvel fans watch every MCU movie and TV series in both chronological and release order.
 
 ---
 
-### 💰 Smart Budget & Savings Management System
+## 📄 Secure Placement Prediction & Resume Analytics System
 
-A budgeting application that helps users manage expenses, monitor savings, and improve financial planning.
+A Machine Learning project built using Python and MongoDB that analyzes resumes and predicts placement opportunities.
 
 ---
 
-## 📊 GitHub Statistics
+## 💰 Smart Budget & Savings Management System
+
+A finance management application that helps users monitor expenses and savings efficiently.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -92,7 +92,7 @@ A budgeting application that helps users manage expenses, monitor savings, and i
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -102,7 +102,7 @@ A budgeting application that helps users manage expenses, monitor savings, and i
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -112,7 +112,7 @@ A budgeting application that helps users manage expenses, monitor savings, and i
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -122,16 +122,16 @@ A budgeting application that helps users manage expenses, monitor savings, and i
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - 🤖 Machine Learning
-- 🔐 Cybersecurity
-- 📊 Data Analytics
+- 🔐 Security in Computing
 - 💻 Operating Systems
+- 📊 Data Analytics
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="left">
 
@@ -143,10 +143,6 @@ A budgeting application that helps users manage expenses, monitor savings, and i
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:ravganesan1963_bcs28@mepcoeng.ac.in">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -155,9 +151,9 @@ A budgeting application that helps users manage expenses, monitor savings, and i
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
-<p align="left">
+<p>
 
 <img src="https://komarev.com/ghpvc/?username=ravganesan1963bcs28-tech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -165,12 +161,16 @@ A budgeting application that helps users manage expenses, monitor savings, and i
 
 ---
 
-## 💬 Favorite Quote
+# 💬 Quote
 
-> *"Success doesn't come from what you do occasionally. It comes from what you do consistently."*
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+*"Every expert was once a beginner."*
+
+</div>
