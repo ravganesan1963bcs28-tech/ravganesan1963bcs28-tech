@@ -133,16 +133,6 @@ A web-based attendance management system designed to simplify attendance trackin
 
 ---
 
-# 👀 Profile Views
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=ravganesan1963bcs28-tech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
 # 💬 Quote
 
 > **"Code. Learn. Build. Repeat."**
