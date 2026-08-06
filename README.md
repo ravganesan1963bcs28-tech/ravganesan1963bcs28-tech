@@ -80,15 +80,6 @@ A finance management application that helps users monitor expenses and savings e
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravganesan1963bcs28-tech&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravganesan1963bcs28-tech&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
