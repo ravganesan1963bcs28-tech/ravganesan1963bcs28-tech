@@ -68,9 +68,6 @@ A responsive web application that helps Marvel fans watch every MCU movie and TV
 
 ---
 
-## 📄 Secure Placement Prediction & Resume Analytics System
-
-A Machine Learning project built using Python and MongoDB that analyzes resumes and predicts placement opportunities.
 
 ---
 
