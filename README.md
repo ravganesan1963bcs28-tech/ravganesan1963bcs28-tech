@@ -76,6 +76,9 @@ A responsive web application that helps Marvel fans watch every MCU movie and TV
 A finance management application that helps users monitor expenses and savings efficiently.
 
 ---
+## 🎓 Student Attendance Management System
+
+A web-based attendance management system designed to simplify attendance tracking for educational institutions. The system provides separate dashboards for administrators, faculty members, and students, enabling efficient attendance management, timetable handling, and attendance reporting.
 
 
 ---
