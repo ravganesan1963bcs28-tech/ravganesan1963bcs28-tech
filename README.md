@@ -115,7 +115,6 @@ A web-based attendance management system designed to simplify attendance trackin
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ravganesan1963bcs28-tech&show_icons=true&theme=tokyonight&rank_icon=github"/>
 </p>
-
 # 📫 Connect With Me
 
 <p align="left">
