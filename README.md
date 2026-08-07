@@ -115,7 +115,7 @@ A web-based attendance management system designed to simplify attendance trackin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravganesan1963bcs28-tech&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ravganesan1963bcs28-tech&show_icons=true&theme=radical" />
 </p>
 # 📫 Connect With Me
 
