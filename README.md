@@ -83,14 +83,11 @@ A web-based attendance management system designed to simplify attendance trackin
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ravganesan1963bcs28-tech&theme=tokyonight"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravganesan1963bcs28-tech&show_icons=true&theme=radical" />
 </p>
-
 ---
 
 
