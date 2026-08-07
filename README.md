@@ -112,6 +112,21 @@ A web-based attendance management system designed to simplify attendance trackin
 - 📊 Data Analytics
 
 ---
+## 📊 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravganesan1963bcs28-tech&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravganesan1963bcs28-tech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravganesan1963bcs28-tech&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravganesan1963bcs28-tech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravganesan1963bcs28-tech&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 # 📫 Connect With Me
 
