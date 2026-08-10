@@ -86,7 +86,7 @@ A web-based attendance management system designed to simplify attendance trackin
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravganesan1963bcs28-tech&show_icons=true&theme=radical" />
+<img src="https://vercel.app" />
 </p>
 ---
 
