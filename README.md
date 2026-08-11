@@ -64,10 +64,7 @@ Computer Science Engineering Student | Python Developer | Machine Learning Enthu
 
 ## 🎬 MCU Watch Order
 
-A responsive web application that helps Marvel fans watch every MCU movie and TV series in both chronological and release order.
-
----
-
+A responsive web application that helps Marvel fans watch every MCU movie and TV series in both chronological and release order.0
 
 ---
 
@@ -79,27 +76,7 @@ A finance management application that helps users monitor expenses and savings e
 ## 🎓 Student Attendance Management System
 
 A web-based attendance management system designed to simplify attendance tracking for educational institutions. The system provides separate dashboards for administrators, faculty members, and students, enabling efficient attendance management, timetable handling, and attendance reporting.
-
-
 ---
-# 📊 GitHub Metrics & Activity
-
-<p align="center">
-  <!-- GitHub Grade Stats Card (Using Stable Extended Server) -->
-  <img src="https://vercel.app" alt="Muniyasamy's GitHub Grade Stats" width="48%" />
-  
-  <!-- Top Languages Card (Using Stable Extended Server) -->
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Contribution Activity Graph -->
-  <img src="https://vercel.app" alt="Contribution Graph" width="100%"/>
-</p>
-
----
-
-
 # 📈 Contribution Graph
 
 <p align="center">
