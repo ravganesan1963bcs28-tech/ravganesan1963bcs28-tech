@@ -85,10 +85,10 @@ A web-based attendance management system designed to simplify attendance trackin
 # 📊 GitHub Metrics & Activity
 
 <p align="center">
-  <!-- GitHub Grade Stats Card (Stable & Active Server) -->
+  <!-- GitHub Grade Stats Card (Using Stable Extended Server) -->
   <img src="https://vercel.app" alt="Muniyasamy's GitHub Grade Stats" width="48%" />
   
-  <!-- Top Languages Card (Stable & Active Server) -->
+  <!-- Top Languages Card (Using Stable Extended Server) -->
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
 
