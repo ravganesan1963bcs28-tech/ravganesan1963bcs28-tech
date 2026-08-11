@@ -83,11 +83,17 @@ A web-based attendance management system designed to simplify attendance trackin
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Metrics & Activity
 
 <p align="center">
-<img src="https://vercel.app" />
+  <img src="https://vercel.app" alt="Muniyasamy's GitHub Grade Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Contribution Graph" width="100%"/>
+</p>
+
 ---
 
 
