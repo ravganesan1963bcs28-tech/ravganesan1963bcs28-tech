@@ -74,8 +74,8 @@ A finance management application that helps users monitor expenses and savings e
 
 ---
 ## 🎓 Student Attendance Management System
-
-A web-based attendance management system designed to simplify attendance tracking for educational institutions. The system provides separate dashboards for administrators, faculty members, and students, enabling efficient attendance management, timetable handling, and attendance reporting.
+**
+****A web-based attendance management system designed to simplify attendance tracking for educational institutions. The system provides separate dashboards for administrators, faculty members, and students, enabling efficient attendance management, timetable handling, and attendance reporting**
 ---
 # 📈 Contribution Graph
 
